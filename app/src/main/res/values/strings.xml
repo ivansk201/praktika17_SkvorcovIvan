@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Кальклятор</string>
+    <string name="Krug">Круг</string>
+    <string name="Treug">Треугольник</string>
+    <string name="Pryamug">Прямоугольник</string>
+    <string name="text1">Выберите фигуру для рассчета периметра</string>
+    <string name="butt1">Рассчитать</string>
+    <string name="butt2">Результат</string>
+    <string name="last_shape_key"></string>
+    <string name="result_perimeter">Периметр: %f</string>
+    <string-array name="shape_array">
+        <item>Треугольник</item>
+        <item>Прямоугольник</item>
+        <item>Круг</item>
+    </string-array>
+</resources>
